@@ -1,6 +1,6 @@
 .list-group-item{
     cursor: pointer;
-    height: 50px;
+    height: 55px;
 }
 
 .list-group-item:active{
